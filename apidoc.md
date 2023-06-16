@@ -29,20 +29,26 @@ https://ticketbooking-xyft.onrender.com/details/1
 //page-4
 
 ->Details of movies based on id {"id":[4,8,2]} 
+
+api checked by postman
 (MovieId 1 to 11)
 
 https://ticketbooking-xyft.onrender.com/moviedetails
 
 ->details of order
+api checked by postman
 https://ticketbooking-xyft.onrender.com/orders
 
 ->place order
+api checked by postman
 https://ticketbooking-xyft.onrender.com/placeOrder
 
 //page-5 
 
 -> update the order 
+api checked by postman
 https://ticketbooking-xyft.onrender.com/updateOrder
 
 -> delete the order
+api checked by postman
 https://ticketbooking-xyft.onrender.com/deleteOrder
