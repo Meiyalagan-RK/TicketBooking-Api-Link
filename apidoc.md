@@ -16,7 +16,8 @@ https://ticketbooking-xyft.onrender.com/Genres
 
 ->Movie language
 https://ticketbooking-xyft.onrender.com/language
-
+-->Filter
+https://ticketbooking-xyft.onrender.com/movies?LanguageId=x
 
 //page-3
 
