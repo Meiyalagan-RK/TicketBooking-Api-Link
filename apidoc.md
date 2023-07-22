@@ -11,6 +11,9 @@ https://ticketbooking-xyft.onrender.com/movies
 
 //page-2
 
+->new movies
+https://ticketbooking-xyft.onrender.com/newMovies
+
 ->Genre type
 https://ticketbooking-xyft.onrender.com/Genres
 
