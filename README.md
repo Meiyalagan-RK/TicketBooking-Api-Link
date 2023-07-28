@@ -22,7 +22,7 @@ https://ticketbooking-xyft.onrender.com/Genres
 https://ticketbooking-xyft.onrender.com/language
 
 ->Movie id
-https://bookingmovie-1df0.onrender.com/newMovies?MovieId=1
+https://ticketbooking-xyft.onrender.com/movies?MovieId=1
 
 
 -->Filter
