@@ -20,6 +20,11 @@ https://ticketbooking-xyft.onrender.com/Genres
 
 ->Movie language
 https://ticketbooking-xyft.onrender.com/language
+
+->Movie id
+https://bookingmovie-1df0.onrender.com/newMovies?MovieId=1
+
+
 -->Filter
 https://ticketbooking-xyft.onrender.com/movies?LanguageId=x
 
